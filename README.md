@@ -1,3 +1,4 @@
 # hyperledgercomposer
 
-https://composer-playground-next.mybluemix.net/login
+https://hyperledger.github.io/composer/next/tutorials/playground-tutorial.html
+
