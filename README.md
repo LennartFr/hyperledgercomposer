@@ -9,6 +9,13 @@ https://github.com/hyperledger/composer-sample-applications/tree/master/packages
 https://github.com/hyperledger/composer-sample-applications/tree/master/packages/vehicle-lifecycle-manufacturing
 
 
+https://youtu.be/nS_MRqAeEbQ   Hyperledger Composer Development Tutorial (1/5) - Setup (Mac OS X)
+https://youtu.be/S2S5cEcmx7Q   Hyperledger Composer Development Tutorial (2/5) - Modeling Language (Mac OS X)
+https://youtu.be/0XHWyrLNW14   Hyperledger Composer Development Tutorial (3/5) - Permissions Language (Mac OS X)
+https://youtu.be/dSindm4UG60   Hyperledger Composer Development Tutorial (4/5) - Javascript API
+https://youtu.be/TbPsou9ok7Y   Hyperledger Composer Development Tutorial (5/5) - Composer REST API (v^0.15)
+
+
 
 
 
