@@ -4,7 +4,7 @@ https://hyperledger.github.io/composer/next/tutorials/playground-tutorial.html
 
 https://hyperledger.github.io/composer/next/
 
-https://github.com/hyperledger/composer-sample-applications/tree/master/packages/vehicle-manufacture
+https://github.com/hyperledger/composer-sample-applications/tree/master/packages/vehicle-lifecycle-manufacturing
 
 
 
