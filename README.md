@@ -2,12 +2,11 @@
 
 [Key Concepts in Hyperledger Composer](https://hyperledger.github.io/composer/introduction/key-concepts.html)
 
-[Hyperledger Composer Solution Architecture](https://cdn-images-1.medium.com/max/1600/1*q4INoHadf0wBcB_Cax93uQ.png)
-
 [Composer Modeling Language](https://hyperledger.github.io/composer/reference/cto_language.html)
 
 ![Image](https://developer.ibm.com/blockchain/wp-content/uploads/sites/87/hyperledger-composer-1024x417.png)
 
+![Image](Hyperledger Composer Solution Architecture](https://cdn-images-1.medium.com/max/1600/1*q4INoHadf0wBcB_Cax93uQ.png)
 
 https://hyperledger.github.io/composer/next/tutorials/playground-tutorial.html
 
