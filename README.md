@@ -2,9 +2,9 @@
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
-Building Blockchain apps with HYPERLEDGER COMPOSER by Simon Stone - The Shard https://youtu.be/C4K7S1JYsLs
-
 Composer is a framework for building Blockchain business networks
+
+Building Blockchain apps with HYPERLEDGER COMPOSER by Simon Stone - The Shard https://youtu.be/C4K7S1JYsLs
 
 [Key Concepts in Hyperledger Composer](https://hyperledger.github.io/composer/introduction/key-concepts.html)
 
