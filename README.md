@@ -16,6 +16,8 @@ https://github.com/hyperledger/composer-sample-applications/tree/master/packages
 * https://youtu.be/0XHWyrLNW14   Hyperledger Composer Development Tutorial (3/5) - Permissions Language (Mac OS X)
 * https://youtu.be/dSindm4UG60   Hyperledger Composer Development Tutorial (4/5) - Javascript API
 * https://youtu.be/TbPsou9ok7Y   Hyperledger Composer Development Tutorial (5/5) - Composer REST API (v^0.15)
+* https://youtu.be/Yf3pRzZQWnQ   Hyperledger Composer - composer-rest-server
+
 
 
 
