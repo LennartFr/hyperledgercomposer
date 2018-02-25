@@ -2,6 +2,10 @@
 
 [Key Concepts in Hyperledger Composer](https://hyperledger.github.io/composer/introduction/key-concepts.html)
 
+
+![Image](https://developer.ibm.com/blockchain/wp-content/uploads/sites/87/hyperledger-composer-1024x417.png)
+
+
 https://hyperledger.github.io/composer/next/tutorials/playground-tutorial.html
 
 https://hyperledger.github.io/composer/next/installing/development-tools.html
