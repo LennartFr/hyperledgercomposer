@@ -1,3 +1,5 @@
+# Hyperledger Composer
+
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
 [Key Concepts in Hyperledger Composer](https://hyperledger.github.io/composer/introduction/key-concepts.html)
@@ -6,7 +8,7 @@
 
 ![Image](https://developer.ibm.com/blockchain/wp-content/uploads/sites/87/hyperledger-composer-1024x417.png)
 
-![Image](Hyperledger Composer Solution Architecture](https://cdn-images-1.medium.com/max/1600/1*q4INoHadf0wBcB_Cax93uQ.png)
+![Image][Hyperledger Composer Solution Architecture](https://cdn-images-1.medium.com/max/1600/1*q4INoHadf0wBcB_Cax93uQ.png)
 
 https://hyperledger.github.io/composer/next/tutorials/playground-tutorial.html
 
