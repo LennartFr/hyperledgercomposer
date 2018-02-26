@@ -6,6 +6,8 @@ Composer is a framework for building Blockchain business networks
 
 Building Blockchain apps with HYPERLEDGER COMPOSER by Simon Stone - The Shard https://youtu.be/C4K7S1JYsLs
 
+Developer Tutorial for creating a Hyperledger Composer solution https://hyperledger.github.io/composer/tutorials/developer-tutorial.html
+
 [Key Concepts in Hyperledger Composer](https://hyperledger.github.io/composer/introduction/key-concepts.html)
 
 [Composer Modeling Language](https://hyperledger.github.io/composer/reference/cto_language.html)
