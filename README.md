@@ -8,6 +8,8 @@ Building Blockchain apps with HYPERLEDGER COMPOSER by Simon Stone - The Shard ht
 
 Developer Tutorial for creating a Hyperledger Composer solution https://hyperledger.github.io/composer/tutorials/developer-tutorial.html
 
+[Compsite Journey](https://github.com/ibm/blockchainevents-compositejourney)
+
 [Key Concepts in Hyperledger Composer](https://hyperledger.github.io/composer/introduction/key-concepts.html)
 
 [Composer Modeling Language](https://hyperledger.github.io/composer/reference/cto_language.html)
